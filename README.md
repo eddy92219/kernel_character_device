@@ -6,7 +6,7 @@ gcc version 9.4.0
 
 ## apt install gcc
 ```
-sudo apt install build-essential linux-headers-$(uname-r)
+$sudo apt install build-essential linux-headers-$(uname-r)
 ```
 
 ## make file
